@@ -22,7 +22,29 @@ A API permite operações CRUD para animais:
 - `DELETE /api/animais/{id}`: Remove um animal.
 
 ## 📌 Exemplo de Entidade
+- ASP.NET Core 7 ou superior
+- Entity Framework Core (com provider Oracle)
+- Injeção de dependência
+- Migrations com suporte a design-time (IDesignTimeDbContextFactory)
+- Visual Studio 2022 ou VS Code
 
+## ⚙️ Como Executar
+- Configurar o banco de dados Oracle com a string de conexão apropriada no appsettings.json:
+
+- "ConnectionStrings": {
+  "DefaultConnection": "User Id=SEU_USUARIO;Password=SUA_SENHA;Data Source=SEU_DATA_SOURCE"
+}
+- Executar migrations (se necessário):
+
+- dotnet ef migrations add InitialCreate -p PetShop.Infrastructure -s PetShopAPI
+- dotnet ef database update -p PetShop.Infrastructure -s PetShopAPI
+
+- Executar a aplicação:
+
+- "dotnet run --project PetShopAPI"
+
+
+## 🔧 Tecnologias Utilizadas
 ```csharp
 public class Animal
 {
@@ -30,29 +52,12 @@ public class Animal
     public string Nome { get; set; }
     public string Tipo { get; set; } // Ex: "Cachorro", "Gato"
     public int Idade { get; set; }
-}
+};
 
-## 🔧 Tecnologias Utilizadas
--ASP.NET Core 7 ou superior
--Entity Framework Core (com provider Oracle)
--Injeção de dependência
---Migrations com suporte a design-time (IDesignTimeDbContextFactory)
---Visual Studio 2022 ou VS Code
 
-## ⚙️ Como Executar
--Configurar o banco de dados Oracle com a string de conexão apropriada no appsettings.json:
 
--"ConnectionStrings": {
-  "DefaultConnection": "User Id=SEU_USUARIO;Password=SUA_SENHA;Data Source=SEU_DATA_SOURCE"
-}
--Executar migrations (se necessário):
 
--dotnet ef migrations add InitialCreate -p PetShop.Infrastructure -s PetShopAPI
--dotnet ef database update -p PetShop.Infrastructure -s PetShopAPI
--Executar a aplicação:
 
--dotnet run --project PetShopAPI
 
-## 📬 Contato
--Para dúvidas ou contribuições, abra uma issue ou envie um pull request.
+
 
