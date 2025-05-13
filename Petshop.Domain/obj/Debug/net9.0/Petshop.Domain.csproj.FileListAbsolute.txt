@@ -1,0 +1,11 @@
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\bin\Debug\net9.0\Petshop.Domain.deps.json
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\bin\Debug\net9.0\Petshop.Domain.dll
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\bin\Debug\net9.0\Petshop.Domain.pdb
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\Petshop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\Petshop.Domain.AssemblyInfoInputs.cache
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\Petshop.Domain.AssemblyInfo.cs
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\Petshop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\Petshop.Domain.dll
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\refint\Petshop.Domain.dll
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\Petshop.Domain.pdb
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\ref\Petshop.Domain.dll

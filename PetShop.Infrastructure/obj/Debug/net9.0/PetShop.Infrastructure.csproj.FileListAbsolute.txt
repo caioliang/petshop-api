@@ -1,0 +1,17 @@
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop.Infrastructure.AssemblyInfo.cs
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\bin\Debug\net9.0\PetShop.Infrastructure.deps.json
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\bin\Debug\net9.0\PetShop.Infrastructure.dll
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\bin\Debug\net9.0\PetShop.Infrastructure.pdb
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\bin\Debug\net9.0\PetShop.Application.dll
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\bin\Debug\net9.0\PetShop.Domain.dll
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\bin\Debug\net9.0\PetShop.Application.pdb
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\bin\Debug\net9.0\PetShop.Domain.pdb
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop..9FE83DD0.Up2Date
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop.Infrastructure.dll
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\refint\PetShop.Infrastructure.dll
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop.Infrastructure.pdb
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\ref\PetShop.Infrastructure.dll

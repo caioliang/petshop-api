@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5982CF57-8F11-41F0-A7FE-DC33FD07EDC5}|PetShopAPI\\PetShopAPI.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\cp02-c3\\petshop\\petshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5982CF57-8F11-41F0-A7FE-DC33FD07EDC5}|PetShopAPI\\PetShopAPI.csproj|solutionrelative:petshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5982CF57-8F11-41F0-A7FE-DC33FD07EDC5}|PetShopAPI\\PetShopAPI.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\cp02-c3\\petshop\\petshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5982CF57-8F11-41F0-A7FE-DC33FD07EDC5}|PetShopAPI\\PetShopAPI.csproj|solutionrelative:petshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5982CF57-8F11-41F0-A7FE-DC33FD07EDC5}|PetShopAPI\\PetShopAPI.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\cp02-c3\\petshop\\petshopapi\\controllers\\animaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5982CF57-8F11-41F0-A7FE-DC33FD07EDC5}|PetShopAPI\\PetShopAPI.csproj|solutionrelative:petshopapi\\controllers\\animaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBE0C1C-48F9-46F6-A348-2EBF72A2501B}|PetShop.Infrastructure\\PetShop.Infrastructure.csproj|c:\\users\\liang\\documents\\fiap\\dotnet\\cp02-c3\\petshop\\petshop.infrastructure\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBE0C1C-48F9-46F6-A348-2EBF72A2501B}|PetShop.Infrastructure\\PetShop.Infrastructure.csproj|solutionrelative:petshop.infrastructure\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\PetShopAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PetShopAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\PetShopAPI\\appsettings.json",
+              "RelativeToolTip": "PetShopAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T00:52:39.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\PetShopAPI\\Controllers\\AnimaisController.cs",
+              "RelativeDocumentMoniker": "PetShopAPI\\Controllers\\AnimaisController.cs",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\PetShopAPI\\Controllers\\AnimaisController.cs",
+              "RelativeToolTip": "PetShopAPI\\Controllers\\AnimaisController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:42:57.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\PetShop.Infrastructure\\AnimalRepository.cs",
+              "RelativeDocumentMoniker": "PetShop.Infrastructure\\AnimalRepository.cs",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\PetShop.Infrastructure\\AnimalRepository.cs",
+              "RelativeToolTip": "PetShop.Infrastructure\\AnimalRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:38:48.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\PetShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PetShopAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\PetShopAPI\\Program.cs",
+              "RelativeToolTip": "PetShopAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:38:08.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+@PetShopAPI_HostAddress = http://localhost:4040
+
+Accept: application/json
+
+###

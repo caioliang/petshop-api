@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "PetShopAPI.Controllers.AnimaisController",
+    "Method": "Get",
+    "RelativePath": "api/Animais",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetShopAPI.Controllers.AnimaisController",
+    "Method": "Post",
+    "RelativePath": "api/Animais",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "animal",
+        "Type": "PetShop.Domain.Estruturas.Animal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetShopAPI.Controllers.AnimaisController",
+    "Method": "Get",
+    "RelativePath": "api/Animais/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetShopAPI.Controllers.AnimaisController",
+    "Method": "Put",
+    "RelativePath": "api/Animais/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "animal",
+        "Type": "PetShop.Domain.Estruturas.Animal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetShopAPI.Controllers.AnimaisController",
+    "Method": "Delete",
+    "RelativePath": "api/Animais/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
