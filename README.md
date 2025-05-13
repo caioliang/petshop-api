@@ -53,11 +53,3 @@ public class Animal
     public string Tipo { get; set; } // Ex: "Cachorro", "Gato"
     public int Idade { get; set; }
 };
-
-
-
-
-
-
-
-
