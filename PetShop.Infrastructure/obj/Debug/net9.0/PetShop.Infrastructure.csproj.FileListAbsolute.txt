@@ -15,3 +15,6 @@ C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\
 C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\refint\PetShop.Infrastructure.dll
 C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop.Infrastructure.pdb
 C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\ref\PetShop.Infrastructure.dll
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\bin\Debug\net9.0\PetShop.Infrastructure.runtimeconfig.json
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop.Infrastructure.sourcelink.json
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\PetShop.Infrastructure\obj\Debug\net9.0\PetShop.Infrastructure.genruntimeconfig.cache

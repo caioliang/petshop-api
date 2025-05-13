@@ -9,3 +9,7 @@ C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\ne
 C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\refint\Petshop.Domain.dll
 C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\Petshop.Domain.pdb
 C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\ref\Petshop.Domain.dll
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\bin\Debug\net9.0\PetShop.Domain.runtimeconfig.json
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\PetShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\PetShop.Domain.sourcelink.json
+C:\Users\Liang\Documents\FIAP\DOTNET\CP02-c3\PetShop\Petshop.Domain\obj\Debug\net9.0\PetShop.Domain.genruntimeconfig.cache

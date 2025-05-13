@@ -11,12 +11,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Devart.Data.Oracle.EFCore.Design" Version="10.4.235" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.4" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.4">
-      <PrivateAssets>all</PrivateAssets>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.4">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Oracle.EntityFrameworkCore" Version="9.23.80" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.1" />

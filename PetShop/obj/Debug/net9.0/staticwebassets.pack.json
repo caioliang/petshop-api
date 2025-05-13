@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\PetShop\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PetShopAPI.bundle.scp.css",
-      "PackagePath": "staticwebassets\\PetShopAPI.xof2di0ihg.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\Liang\\Documents\\FIAP\\DOTNET\\CP02-c3\\PetShop\\PetShop\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
